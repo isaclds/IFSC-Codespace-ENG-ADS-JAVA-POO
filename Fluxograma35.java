@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Fluxograma35 {
-    p1ublic static void main(String[] args){
+    public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
 
         System.out.println("Insira o valor de a: ");
